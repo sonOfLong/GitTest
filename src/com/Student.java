@@ -7,6 +7,7 @@ public class Student {
     private String name;
     private String code;
     private Integer socre;
+    private String parent;
 
     public String getName() {
         return name;
